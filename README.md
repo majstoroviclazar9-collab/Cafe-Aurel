@@ -5,13 +5,13 @@
 
 A little Art Deco café website, built with React, TypeScript, and Tailwind CSS.
 
-[☕ Come on in: see the live site](#)
+[☕ Come on in: see the live site](https://cafe-aurel.vercel.app/)
 
 </div>
 
 ## What is this?
 
-Café Aurel is a made-up neighbourhood café in Dorćol, Belgrade, and this is its website. I built it as a portfolio project to see how far a strong visual identity could go: warm coffee tones, Art Deco details, and typography with a bit of personality.
+Café Aurel is a made-up neighbourhood café in Dorćol, Belgrade, and this is its website: carefully brewed coffee, fresh pastries, and a place to slow down. I built it as a portfolio project to see how far a strong visual identity could go: warm coffee tones, Art Deco details, and typography with a bit of personality.
 
 I wanted it to feel like a real place you'd want to walk into: friendly, easy to find your way around, and good-looking on any screen.
 
@@ -98,7 +98,7 @@ Want to turn this into a site for a different café or brand? Here's where to st
 
 ## Deployment
 
-This is a static frontend, and it lives on Vercel. To build it yourself:
+This is a static frontend, and it lives on Vercel at [cafe-aurel.vercel.app](https://cafe-aurel.vercel.app/). To build it yourself:
 
 ```bash
 npm run build
@@ -125,6 +125,10 @@ Fonts are Cormorant Garamond and DM Sans, via Google Fonts. You'll find their li
 <div align="center">
 
 Made with care, for the love of good design and good coffee.
+
+[Visit Café Aurel](https://cafe-aurel.vercel.app/)
+
+</div>
 
 [Visit Café Aurel](#)
 
